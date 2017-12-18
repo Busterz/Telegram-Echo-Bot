@@ -2,7 +2,7 @@
 
 import  telepot
 # your bot key
-bot = telepot.Bot("228412441:AAH0hKP-WOlcFGsZRaSCETVKIFBZf7C4gXc")
+bot = telepot.Bot("[YOUR_TOKEN]")
 
 
 def handle(msg):
